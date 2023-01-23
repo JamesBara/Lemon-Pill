@@ -1,1 +1,1 @@
-# For information on the Lemon-Pill board please check the [wiki](https://github.com/JamesBara/Lemon-Pill/wiki).
+# For information on the Lemon-Pill board please check the [wiki](https://github.com/JamesBara/Lemon-Pill/wiki/01.-Home).
